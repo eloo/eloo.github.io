@@ -1,0 +1,9 @@
+weight: 2
+title: "Self-Hosted"
+description: >
+  <ul class="list-style-none">
+     <li>The server below your desk</li>
+     <li>Your very private cloud</li>
+     <li>Docker, Monitoring & Alerting</li>
+   </ul>
+image: "img/carousel/template-mac.png"

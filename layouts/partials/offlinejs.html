@@ -1,0 +1,3 @@
+{{ $js := resources.GetRemote .src  }}
+{{- $js = slice $js | resources.Concat .path   }}
+<script src="{{ $js.RelPermalink }}"></script>

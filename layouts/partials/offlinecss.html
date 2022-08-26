@@ -1,0 +1,3 @@
+{{ $css := resources.GetRemote .src  }}
+{{- $css = slice $css | resources.Concat .path   }}
+<link href="{{ $css.RelPermalink }}" rel="stylesheet" id="theme-stylesheet">

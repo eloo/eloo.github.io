@@ -1,0 +1,11 @@
+weight: 1
+title: "HomeAutomation"
+description: >
+  <ul class="list-style-none">
+     <li>Making your home a bit smart</li>
+     <li>Or at least try to make it smarter</li>
+     <li>HomeAssistant</li>
+     <li>Zigbee</li>
+     <li>Tasmota</li>
+   </ul>
+image: "img/carousel/home-assistant.png"
